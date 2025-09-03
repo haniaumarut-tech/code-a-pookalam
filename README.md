@@ -5,7 +5,7 @@ Welcome to CODE-A-പൂക്കളം, a creative coding challenge scheduled f
 
 
 ### Your Details
-- [Haniya Fayiza] - [CSE] - [S1]
+Haniya Fayiza - CSE - S1
 
 
 
